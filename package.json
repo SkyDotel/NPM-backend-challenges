@@ -1,4 +1,9 @@
 {
+	"author":"Sky Dotel",
+	"description": "This is the npm challenge on FCC.",
+	"keywords":["FCC","NPM","Backend"],
+	"license" : "Free",
+	"version":"1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
